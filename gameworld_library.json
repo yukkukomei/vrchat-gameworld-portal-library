@@ -1,0 +1,144 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "2人用ゲーム",
+            "Worlds": [
+                {
+                    "ID": "wrld_7a937ebd-5d42-4f11-a937-545fe9f1479b",
+                    "Name": "ロジカルV王",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ボードゲーム「ロジカル真王」のリスペクトゲームワールドです。プレイ人数2人（3卓計6人）プレイ時間10～15分",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_116bcc02-30cb-4ec4-99b3-16f6fb99757d",
+                    "Name": "Udonマスターズ【VRカードゲーム】",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "VR専用カードゲームUdonマスターズ！デッキ構築も可能！ルールを守って楽しくデュエル！ 1⁄10 新魔法カード追加ǃ",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_aa7a1344-fad8-47ee-ace5-b7f29d5067d0",
+                    "Name": "しばカ！-shibainukun card game-",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "SIBACA",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_5a391d76-0580-412d-899c-6f32ccd7d5ba",
+                    "Name": "Geister",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "Geistar",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_a68a2924-fb2c-4860-adef-d687853e4b79",
+                    "Name": "すーはー式ごいた",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 50,
+                    "Description": "石川県能登発祥の伝統的ボードゲーム「ごいた」が遊べるワールドです！VR、デスクトップ両方でプレイしやすいように、手で駒を打つモードとUseで駒を打つモードを選べるようにしてあります。日本ごいた協会認定になりました！",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_e529ceb7-d4dd-4023-8f36-7081f4784b9b",
+                    "Name": "UDON DUEL［BEAM］",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "［PvP］ 予測線が見えるビームを撃ち合うワールドです 3․15 fixed color",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_b578ce2d-6585-42ab-a2cf-69cd600ce4ec",
+                    "Name": "桜降る代に決闘を",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ボードゲーム『桜降る代に決闘を』遊べるワールドです。 BakaFire Partyに連絡し許可を受けた上で制作しています。 ルールブックはふるよにコモンズに含まれていないが、別途許可を頂いています。 公式サイト https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄index․html ふるよにコモンズ⁄BakaFire‚TOKIAME https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄rule․html",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd",
+                    "Name": "ブラッドリコール ⁄ BLOOD RECALL",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 20,
+                    "Description": "アナログゲーム製作サークル「シエラゲームズ」様制作の、想起血戦カードゲーム「ブラッドリコール」をVRで遊べるワールドです。 プレイ人数˸1~2人 プレイ時間˸10〜30分 対象年齢˸15歳以上 人数˸ 20人",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+                    "Name": "ガンナガン ⁄ GUN AND GUN",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 40,
+                    "Description": "アナログゲーム製作サークル「Keepdry」様制作の、高速二丁銃バトルカードゲーム「ガンナガン」をVRで遊べるワールドです。 プレイ人数˸2人 プレイ時間˸10〜30分 対象年齢˸12歳以上",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_d7f0d8db-6d50-4953-9ea3-740bfc0e9712",
+                    "Name": "우왁굳의 진검승부 - wwg",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Sword",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_a36ee81c-088e-4861-a455-0300ef035cdb",
+                    "Name": "おはツイ！カードバトル！",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 16,
+                    "Description": "Beta",
+                    "ReleaseStatus": "public"
+                }
+            ]
+        },
+        {
+            "Category": "4人用ゲーム",
+            "Worlds": [
+                {
+                    "ID": "wrld_c8401de9-ab65-41f8-9a1d-bb34cb9a9e8b",
+                    "Name": "Udon Chicken Horse",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "Multiplayer PvP game （2~4） - Create a path that gives you an advantage and reach the goal faster than anyone elseǃ",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_3c5ac438-ad0f-450a-a323-57a14569d63a",
+                    "Name": "Udon Sword 2",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "Udon Sword 2",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_5ee932de-bb76-4381-8143-c38a0a79b573",
+                    "Name": "Udon Sword - Multiplayer PvE Dungeon -",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "Udon Sword - Multiplayer PvE Dungeon -",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_232a7b05-3300-49cb-a2ac-a5fd196550fb",
+                    "Name": "Udon Sword 3",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "Udon Sword 3",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_b2715cc5-ff2f-406e-8a2c-588ea979be64",
+                    "Name": "Monster Battle Arena Ver1․35",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "最大4人でチームを組み、闘技場で巨大なモンスターを打ち倒せ！ Team up with up to 4 people and defeat giant monsters in the arenaǃ",
+                    "ReleaseStatus": "private"
+                }
+            ]
+        }
+    ]
+}
