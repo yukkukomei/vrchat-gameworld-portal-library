@@ -998,6 +998,14 @@
                     "Capacity": 8,
                     "Description": "仲間と協力して迫りくる敵を倒し、町を防衛せよ！数百・数千体の敵と戦う、VRMMO ＋ タワーディフェンスなゲームです。最大4人まで同時プレイできます。",
                     "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+                    "Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+                    "ReleaseStatus": "public"
                 }
             ]
         },
