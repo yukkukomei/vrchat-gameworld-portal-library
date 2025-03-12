@@ -508,6 +508,22 @@
                     "Capacity": 64,
                     "Description": "UPDATE˸ Persistence‚ Pets‚ and Personal Suikaǃ Cozy map to play suika game with your friends․ World high scores and four synced game boards with smooth real time physics․ Optimized Udon code for action-packed lag-free gameplay on both Quest and PC․",
                     "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_d5dd61e7-51bb-445e-b4c1-f1f6ed577607",
+                    "Name": "Japan Highway Bus 2nd",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "スポーン地点の建物はサービスエリア扱いです。 敷地面積64㎢、高速道路C1＝20․58km。 音の同期などが不十分ですので予めご了承下さい。 Xに ＃JHB2Photo とタグを付けて投稿すると作者が見に行きます。気に入った写真があればワールド内に掲載されます。",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_04a00bbb-da55-4a13-91e0-a30a3bfb2302",
+                    "Name": "Bus To Nowhere",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "Version 1․6․2 ［SOL］｜ New instance recommended․ ｜ An endless chaotic bus ride․｜ This world contains flashing lightsǃ",
+                    "ReleaseStatus": "public"
                 }
             ]
         },
@@ -696,6 +712,22 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "マリオのようでマリオじゃない！？指示する2Dアクションゲーム！20231010 ショップのシャケが落ちないように修正、ワールド名のアンダーバーを削除、20231203EXステージを初期から表示、クールーの出現条件緩和、クールー出現条件に新ギミックを配置、20240115 カメラのシステムを変更（ちらつき防止）プレイヤーがプレイ中にステージ選択不可に変更、プレイヤーがプレイ中に他の人が入ってもカメラを取られないように変更、一部モンスターにやられた時の挙動を変更、一部モンスターのリポップ処理を変更",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_a4d93929-7e74-4ae3-9ca1-c4fd16c03c41",
+                    "Name": "はこだま ボードゲーム VR",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "「はこだま ボードゲーム VR」は、陣形と攻撃範囲がカギを握る、1対1対戦型ボードゲームです。 プレイ人数：2人（×4セット） プレイ時間：15～20分 （c） 2006 ~ 2025 ほげぴよからくりばこ․ All rights reserved․ 本ワールドは、収益化を目的とした動画・ライブ配信が可能です。",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_c497f0ab-70fe-474e-9f38-54348bdcdc24",
+                    "Name": "デュ部屋",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "デュエル・マスターズが遊べる、部屋。 ''デュ部屋''はファンコンテンツ・ポリシーに沿った非公式のファンコンテンツです。ウィザーズ社の認可⁄許諾は得ていません。題材の一部に、ウィザーズ・オブ・ザ・コースト社の財産を含んでいます。©Wizards of the Coast LLC․",
                     "ReleaseStatus": "public"
                 }
             ]
@@ -1005,6 +1037,14 @@
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
                     "Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_52b92b71-abc5-4da6-b819-755ad9ed9942",
+                    "Name": "オリジナルボードゲームKEMONOKING",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 30,
+                    "Description": "最強のけものの群れを作ってけものの王を目指すボードゲームです。プレイ人数4人",
                     "ReleaseStatus": "public"
                 }
             ]
