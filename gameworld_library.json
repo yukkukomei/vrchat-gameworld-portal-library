@@ -6,6 +6,22 @@
             "Category": "1人で遊べる",
             "Worlds": [
                 {
+                    "ID": "wrld_e88a4de6-d634-4862-bb66-3534f426a1f6",
+                    "Name": "謎解きワールド：「十人十色」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［JP only］想定プレイ時間：クリアまで5分-15分、完全クリアまで45分-120分。QvPen以外のギミックはローカルです。Desktop‚ VR対応。",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_bc647b75-363d-40ed-ac02-c576098a1efc",
+                    "Name": "Idle Cube",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 48,
+                    "Description": "［2․8․1 Content Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with you rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
+                    "ReleaseStatus": "public"
+                },
+                {
                     "ID": "wrld_04a00bbb-da55-4a13-91e0-a30a3bfb2302",
                     "Name": "Bus To Nowhere",
                     "RecommendedCapacity": 20,
@@ -1052,6 +1068,14 @@
         {
             "Category": "3～6人推奨",
             "Worlds": [
+                {
+                    "ID": "wrld_71d9f907-3620-4d7c-88e4-aa1f76494949",
+                    "Name": "ニュースの時間ですVR",
+                    "RecommendedCapacity": 7,
+                    "Capacity": 16,
+                    "Description": "面白おかしいニュース原稿を作ってニュースキャスターを笑わせよう！！！ プレイ人数3~7人 VR推奨",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_ee2f9d87-73db-41dc-a9e6-a410ffb5f8b5",
                     "Name": "Japanese Russian Games",
