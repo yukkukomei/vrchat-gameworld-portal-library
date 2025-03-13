@@ -6,6 +6,54 @@
             "Category": "1人で遊べる",
             "Worlds": [
                 {
+                    "ID": "wrld_b64e51eb-0ce0-43d4-bf60-40bf6d878c25",
+                    "Name": "Just 芋掘り - Just imohori -",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "芋掘りワールドです！ 偶に若干同期ズレするかも！ 焼き芋とスイートポテトが作れます！焼き芋は焚火の周りにでるよ！",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_a3d6c8ef-5d22-4269-91ae-f5f4db220650",
+                    "Name": "Bloxorz VR",
+                    "RecommendedCapacity": 15,
+                    "Capacity": 30,
+                    "Description": "A recreation of the Bloxorz game on coolmath games using Udon․",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_0447fbb1-8ab3-4972-b724-8858041b912e",
+                    "Name": "難易度ロリコライダー謎解き",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 32,
+                    "Description": "4段階の難易度調整が可能な謎解きワールドです。ストーリーあり。＃VRC_DifCoL",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_30c52ebc-1be4-402b-a314-0af52dbb46ba",
+                    "Name": "謎解きワールド『結界数秘術』",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "日本人向けの謎解きワールドです。結界内で３分間攻撃をかわし続けろ。動作はグローバル。＃VRC_Kekkai",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_de1e25c0-e701-4ca2-826f-21b6509ecbd2",
+                    "Name": "水に念を込めるワールド",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "グラスに手を近づけて念を込めることで能力がわかる！某マンガのパロディワールドです。",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
+                    "Name": "The Pool Parlor ｜ 8 Ball Pool",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 75,
+                    "Description": "Relax and play some billiards with friendsǃ ｜ Official VRChat Group˸ https˸⁄⁄vrc․group⁄POOL․1053 ｜ Discord˸ discord․gg⁄poolparlor",
+                    "ReleaseStatus": "public"
+                },
+                {
                     "ID": "wrld_e88a4de6-d634-4862-bb66-3534f426a1f6",
                     "Name": "謎解きワールド：「十人十色」",
                     "RecommendedCapacity": 8,
@@ -752,6 +800,22 @@
             "Category": "2～4人用",
             "Worlds": [
                 {
+                    "ID": "wrld_e1989e91-4b8d-4a0f-b215-33d34e0ede1e",
+                    "Name": "B2 Big Robot Battle",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "4-player PvP game riding on a big robot․ CPU mode implemented․ Support for VR‚ Ques‚ PC․",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_73b3688c-092f-4ed1-ab7d-f0e8192f82db",
+                    "Name": "Bullsh∗tǃ",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "A game of lies‚ deceit and chance․ Heavily inspired by Curve Animation's Liar's Deck․ Get rid of the cards in your hand‚ but don't get caught lying or you'll have to play a round of Russian Rouletteǃ Multiple simultaneous games supported",
+                    "ReleaseStatus": "public"
+                },
+                {
                     "ID": "wrld_52b92b71-abc5-4da6-b819-755ad9ed9942",
                     "Name": "オリジナルボードゲームKEMONOKING",
                     "RecommendedCapacity": 16,
@@ -1068,6 +1132,14 @@
         {
             "Category": "3～6人推奨",
             "Worlds": [
+                {
+                    "ID": "wrld_9ca4e522-f903-4900-8a7c-103371245304",
+                    "Name": "Life Drawing",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 80,
+                    "Description": "Start life drawing with 3D models‚ tutorial videos‚ or even your friendsǃ Quest Ready․ Painting prefab are by Enfutu․ Updated canvas‚ pickup system‚ and optimizations․ New Gallery Update Feb 2025․",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_71d9f907-3620-4d7c-88e4-aa1f76494949",
                     "Name": "ニュースの時間ですVR",
@@ -1457,6 +1529,22 @@
         {
             "Category": "4～8人推奨",
             "Worlds": [
+                {
+                    "ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+                    "Name": "Barrage TD",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 10,
+                    "Description": "Tower Defense with team play and the ability to take control of the towers․ Become a miniature on the game board and fight the hoards alone with up to 9 friends․",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_b5fc0729-cf82-439f-b6ef-dfd497998565",
+                    "Name": "VRC抜き打ちテスト",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "小中学校までの問題をフレンドにテストしよう！ 1~12人まで同時にテストでき‚上から観戦することもできます。 遊び方˸問題を解いたらどんとん前の壁に進んでいってください、解答は問題の前の床に出てきます（遠めだと気づきにくいです）。 もし問題や回答に不備がある場合や希望がある場合はtwitterのDMにお願いします。 追記˸珍回答広場に69枚追加しました。多すぎです",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_5f0ea57f-c03d-4a18-ab8a-d7231ba949d8",
                     "Name": "HADO UDON",
@@ -2686,14 +2774,6 @@
             "Category": "未分類",
             "Worlds": [
                 {
-                    "ID": "wrld_9ca4e522-f903-4900-8a7c-103371245304",
-                    "Name": "Life Drawing",
-                    "RecommendedCapacity": 24,
-                    "Capacity": 80,
-                    "Description": "Start life drawing with 3D models‚ tutorial videos‚ or even your friendsǃ Quest Ready․ Painting prefab are by Enfutu․ Updated canvas‚ pickup system‚ and optimizations․ New Gallery Update Feb 2025․",
-                    "ReleaseStatus": "public"
-                },
-                {
                     "ID": "wrld_52eafb3e-74c9-4e40-9051-533d0fa1d7b3",
                     "Name": "Battle Discs",
                     "RecommendedCapacity": 16,
@@ -2702,99 +2782,11 @@
                     "ReleaseStatus": "public"
                 },
                 {
-                    "ID": "wrld_73b3688c-092f-4ed1-ab7d-f0e8192f82db",
-                    "Name": "Bullsh∗tǃ",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "A game of lies‚ deceit and chance․ Heavily inspired by Curve Animation's Liar's Deck․ Get rid of the cards in your hand‚ but don't get caught lying or you'll have to play a round of Russian Rouletteǃ Multiple simultaneous games supported",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
-                    "Name": "The Pool Parlor ｜ 8 Ball Pool",
-                    "RecommendedCapacity": 40,
-                    "Capacity": 75,
-                    "Description": "Relax and play some billiards with friendsǃ ｜ Official VRChat Group˸ https˸⁄⁄vrc․group⁄POOL․1053 ｜ Discord˸ discord․gg⁄poolparlor",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_bc647b75-363d-40ed-ac02-c576098a1efc",
-                    "Name": "Idle Cube",
-                    "RecommendedCapacity": 24,
-                    "Capacity": 48,
-                    "Description": "［2․8․1 Content Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with you rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_b5fc0729-cf82-439f-b6ef-dfd497998565",
-                    "Name": "VRC抜き打ちテスト",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "小中学校までの問題をフレンドにテストしよう！ 1~12人まで同時にテストでき‚上から観戦することもできます。 遊び方˸問題を解いたらどんとん前の壁に進んでいってください、解答は問題の前の床に出てきます（遠めだと気づきにくいです）。 もし問題や回答に不備がある場合や希望がある場合はtwitterのDMにお願いします。 追記˸珍回答広場に69枚追加しました。多すぎです",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_de1e25c0-e701-4ca2-826f-21b6509ecbd2",
-                    "Name": "水に念を込めるワールド",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "グラスに手を近づけて念を込めることで能力がわかる！某マンガのパロディワールドです。",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_30c52ebc-1be4-402b-a314-0af52dbb46ba",
-                    "Name": "謎解きワールド『結界数秘術』",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "日本人向けの謎解きワールドです。結界内で３分間攻撃をかわし続けろ。動作はグローバル。＃VRC_Kekkai",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_0447fbb1-8ab3-4972-b724-8858041b912e",
-                    "Name": "難易度ロリコライダー謎解き",
-                    "RecommendedCapacity": 8,
-                    "Capacity": 32,
-                    "Description": "4段階の難易度調整が可能な謎解きワールドです。ストーリーあり。＃VRC_DifCoL",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_a3d6c8ef-5d22-4269-91ae-f5f4db220650",
-                    "Name": "Bloxorz VR",
-                    "RecommendedCapacity": 15,
-                    "Capacity": 30,
-                    "Description": "A recreation of the Bloxorz game on coolmath games using Udon․",
-                    "ReleaseStatus": "public"
-                },
-                {
                     "ID": "wrld_d5658267-c965-4dbf-b58f-6f50104e9f24",
                     "Name": "Spook Em Up",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "A DeathRun inspired game with randomized room layouts every roundǃ Avoid the Spirit's traps and escape the haunted mansion with your soul intactǃ Submitted for Spookality 2024‚ 2＋ Players Required to play․",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_e1989e91-4b8d-4a0f-b215-33d34e0ede1e",
-                    "Name": "B2 Big Robot Battle",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "4-player PvP game riding on a big robot․ CPU mode implemented․ Support for VR‚ Ques‚ PC․",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_b64e51eb-0ce0-43d4-bf60-40bf6d878c25",
-                    "Name": "Just 芋掘り - Just imohori -",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "芋掘りワールドです！ 偶に若干同期ズレするかも！ 焼き芋とスイートポテトが作れます！焼き芋は焚火の周りにでるよ！",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
-                    "Name": "Barrage TD",
-                    "RecommendedCapacity": 10,
-                    "Capacity": 10,
-                    "Description": "Tower Defense with team play and the ability to take control of the towers․ Become a miniature on the game board and fight the hoards alone with up to 9 friends․",
                     "ReleaseStatus": "public"
                 },
                 {
