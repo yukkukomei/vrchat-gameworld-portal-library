@@ -1,6 +1,6 @@
 {
     "ReverseCategorys": false,
-    "ShowPrivateWorld": true,
+    "ShowPrivateWorld": false,
     "Categorys": [
         {
             "Category": "1人で遊べる",
