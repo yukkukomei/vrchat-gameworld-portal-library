@@ -1,6 +1,6 @@
 {
     "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
+    "ShowPrivateWorld": true,
     "Categorys": [
         {
             "Category": "1人で遊べる",
@@ -1088,14 +1088,6 @@
                     "ReleaseStatus": "public"
                 },
                 {
-                    "ID": "wrld_b2715cc5-ff2f-406e-8a2c-588ea979be64",
-                    "Name": "Monster Battle Arena Ver1․35",
-                    "RecommendedCapacity": 8,
-                    "Capacity": 16,
-                    "Description": "最大4人でチームを組み、闘技場で巨大なモンスターを打ち倒せ！ Team up with up to 4 people and defeat giant monsters in the arenaǃ",
-                    "ReleaseStatus": "private"
-                },
-                {
                     "ID": "wrld_232a7b05-3300-49cb-a2ac-a5fd196550fb",
                     "Name": "Udon Sword 3",
                     "RecommendedCapacity": 4,
@@ -1618,14 +1610,6 @@
                     "ReleaseStatus": "public"
                 },
                 {
-                    "ID": "wrld_23008c48-6719-4dd0-b938-0390b53c1784",
-                    "Name": "Just Shooting Coasterǃǃǃ - Trial course -",
-                    "RecommendedCapacity": 4,
-                    "Capacity": 8,
-                    "Description": "Shoot down a total of 100 targetsǃ",
-                    "ReleaseStatus": "private"
-                },
-                {
                     "ID": "wrld_332add90-09da-4781-bb92-0fc0d4c3cf86",
                     "Name": "Packer's Party Game",
                     "RecommendedCapacity": 8,
@@ -1983,14 +1967,6 @@
                     "ReleaseStatus": "public"
                 },
                 {
-                    "ID": "wrld_6aae313d-bcdf-4f5f-8ea1-181f780e6c30",
-                    "Name": "Tsumuri Kart Spookality",
-                    "RecommendedCapacity": 12,
-                    "Capacity": 24,
-                    "Description": "Let's Tsumuri Kart․ Spooky Forest․",
-                    "ReleaseStatus": "private"
-                },
-                {
                     "ID": "wrld_b84bfd4d-28c5-420e-acb3-e60091588fae",
                     "Name": "［Old］Tsumuri Kart vol․4",
                     "RecommendedCapacity": 15,
@@ -2274,14 +2250,6 @@
                     "Capacity": 30,
                     "Description": "Experience a New Era of FPS Action˸ ［Strategic Battlefront］ǃ Dive into a world where authentic weapon mechanics meet adrenaline-pumping combat․ Precision‚ strategy‚ and skill are your keys to dominationǃ Are you ready for the ultimate showdown? Gear up‚ step in‚ and claim your victory․ The battlefield awaitsmake it yours․ ｜ 新時代のFPSアクションを体感せよ：［Strategic Battlefront］！ リアリティ溢れる武器操作と、緊張感あふれる戦闘が融合した究極のゲームワールド。勝利のカギは精密さ、戦略、そしてスキルにあり！ 覚悟はできているか？ 装備を整え、戦場へ飛び込め。勝利は君の手にある！",
                     "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_88d98910-13e4-4d2b-9f1b-4d396b4eae45",
-                    "Name": "Joker Shooting",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "You win if you defeat the enemy joker firstǃ 敵のジョーカーを先に倒せば勝ち！",
-                    "ReleaseStatus": "private"
                 },
                 {
                     "ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
@@ -4068,14 +4036,6 @@
                     "Capacity": 32,
                     "Description": "東方project二次創作カードゲーム「幻想ノ宴」をVRchatで遊びたくて作った個人ワールドです ワールドギミックはBoothにて販売されてます「すーはー式カードゲームシステム」を採用しております。カードデータはBoothにて販売されてます「幻想ノ宴DL版１～４幕」に対応しております。 2025年1月12日コミュニティラボ公開しました。 2025年2月3日グループを作成し、グループのリンクへ飛べる広告を設置しました。どなたでも気軽にご参加ください。",
                     "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_79750a2c-d4c7-4faf-89e0-4eca13cba58d",
-                    "Name": "VR Riders - Chill mountain",
-                    "RecommendedCapacity": 8,
-                    "Capacity": 16,
-                    "Description": "VR Riders",
-                    "ReleaseStatus": "private"
                 },
                 {
                     "ID": "wrld_f077baba-1010-43bf-b837-6d23d44f6e80",
