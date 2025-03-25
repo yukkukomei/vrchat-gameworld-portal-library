@@ -6,6 +6,14 @@
             "Category": "1人で遊べる",
             "Worlds": [
                 {
+                    "ID": "wrld_018f0ed8-6e84-4e64-b7eb-92462ac869ab",
+                    "Name": "1⁄1024",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 16,
+                    "Description": "1⁄2を10回連続引き当てるだけのゲームがあるチルワです․ 忍耐と運を試すことができます․ This is a world where you can relax in a cozy atmosphere․ ․ Candles can be dangerous‚ so please do not touch them․ Asovel‚YamaPlayer‚ QVpen‚ 麻雀‚ UdonBed導入済み （想定クリア時間˸ 5min~??） インスタンス内で最初にクリアしたプレイヤーにはクラウンが授与されます",
+                    "ReleaseStatus": "public"
+                },
+                {
                     "ID": "wrld_b64e51eb-0ce0-43d4-bf60-40bf6d878c25",
                     "Name": "Just 芋掘り - Just imohori -",
                     "RecommendedCapacity": 16,
