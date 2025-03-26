@@ -1,10 +1,34 @@
 {
     "ReverseCategorys": false,
-    "ShowPrivateWorld": true,
+    "ShowPrivateWorld": false,
     "Categorys": [
         {
             "Category": "1人で遊べる",
             "Worlds": [
+                {
+                    "ID": "wrld_5216a28f-1242-4079-989b-487d28c22a77",
+                    "Name": "謎解きワールド「ToNに来い！」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "謎解きワールドです！デスクトップ、VR対応。難易度は簡単です。（EX問題があり、そちらは少し難しいです。）ToNの知識を活かして謎解きするワールドです。普段は謎解きしないけど、ToNやってる人は是非、やってみて下さい！お前がToNにこい！",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_b6192c90-44fb-45e8-8f6e-801714dac9b7",
+                    "Name": "実年齢聴力テスト Real Age Hearing Test",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "あなたやフレンドの実年齢がわかる聴力テストができるワールドです。一人でもグループでもテストできます。This is a world where you can take a hearing test that reveals your real age or that of your friends․ It can be done individually or as a group․",
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_1ec4d00b-9598-4297-af3d-11236659b67a",
+                    "Name": "Yamaha Motor - VR TRAIL",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 16,
+                    "Description": "「VR TRAIL」は、静岡県周智郡森町のミリオンペタルバイクパークを再現したMTBのVRコースです。 走る楽しさを追求したスポーツ電動アシスト自転車シリーズ、「YPJ-MT Pro」「CROSSCORE RC」、や弊社のキャラクター「ニャイケン」にまたがり、本格的なトレール走行体験を楽しむことができます。 VRトレールはレーザー計測技術を用いてデジタルツインとして森林を再現しており、ダウンヒル、ジャンプ、パンプ、スピン、ドロップなど多彩なコースを提供します。 いつでもどこでも楽しめるエキサイティングなMTBライディングと森林浴を、「VR TRAIL」でお楽しみください。",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_018f0ed8-6e84-4e64-b7eb-92462ac869ab",
                     "Name": "1⁄1024",
@@ -808,6 +832,14 @@
             "Category": "2～4人用",
             "Worlds": [
                 {
+                    "ID": "wrld_e3b20da4-81a9-4fda-abdb-032cbc615351",
+                    "Name": "やばらす",
+                    "RecommendedCapacity": 9,
+                    "Capacity": 18,
+                    "Description": "4つ並べたら勝ち、ただし3つ並べたら負けの2~3人プレイ用ボードゲームです。3台置いてあります。",
+                    "ReleaseStatus": "public"
+                },
+                {
                     "ID": "wrld_e1989e91-4b8d-4a0f-b215-33d34e0ede1e",
                     "Name": "B2 Big Robot Battle",
                     "RecommendedCapacity": 16,
@@ -1132,6 +1164,14 @@
         {
             "Category": "3～6人推奨",
             "Worlds": [
+                {
+                    "ID": "wrld_65f0c22f-d4da-4fba-818d-48493dcd75cd",
+                    "Name": "Gladiator Open Beta",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 32,
+                    "Description": "Medeival Combat PvP game where you kill other players and try to reach the top score first‚ or have the highest score before time runs outǃ Supports PC⁄Quest⁄Desktop play‚ with planned updates for the future․ Version 1․2․3‚ join Discord for patch notes˸ discord․gg⁄h3ZzSrzMrr",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_9ca4e522-f903-4900-8a7c-103371245304",
                     "Name": "Life Drawing",
@@ -1529,6 +1569,14 @@
         {
             "Category": "4～8人推奨",
             "Worlds": [
+                {
+                    "ID": "wrld_39327a8b-97ac-4b4e-92dc-2a30d55a7c59",
+                    "Name": "何か価値観を数字にして順番に並べれたら気持ちいいゲーム",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "プレイ人数：2～10人程度。お題に沿った例えで自分の数字を表現するゲーム。ITOを簡略化した物。カードが宙に舞ったらインスタンスを立て直してみてね。",
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
                     "Name": "Barrage TD",
