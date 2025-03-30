@@ -1737,6 +1737,18 @@
             "Category": "3～6人推奨",
             "Worlds": [
                 {
+                    "ID": "wrld_c0e36504-2c33-41c3-998f-2b64f54ce674",
+                    "Name": "Data Breach",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 24,
+                    "Description": "Sabotage a corporation by collecting their valuable algorithm data while avoiding their snipers․ Minimum 2 players - recommended to have at least 6 players․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
                     "ID": "wrld_65f0c22f-d4da-4fba-818d-48493dcd75cd",
                     "Name": "Gladiator Open Beta",
                     "RecommendedCapacity": 20,
@@ -2827,6 +2839,18 @@
             "Category": "6～10人推奨",
             "Worlds": [
                 {
+                    "ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
+                    "Name": "Victory of Round -v․2․00-",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 14,
+                    "Description": "2人～最大10人で遊べるローグライトシューティングPvPワールドです This is a rogue light shooting PvP world for 2 to 10 playersǃ Ricochets? Explosions? Anything goesǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
                     "ID": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
                     "Name": "'Among Us' game",
                     "RecommendedCapacity": 10,
@@ -3336,18 +3360,6 @@
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
                     "Description": "Kitchen Versus Kitchen˸ The competitive team battle version of Kitchen Cooks․ Both teams get the same orders․․․ which team can complete them faster? by jar",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }
-                },
-                {
-                    "ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
-                    "Name": "Victory of Round",
-                    "RecommendedCapacity": 10,
-                    "Capacity": 14,
-                    "Description": "2人～最大10人で遊べるローグライトシューティングPvPワールドです This is a rogue light shooting PvP world for 2 to 10 playersǃ Ricochets? Explosions? Anything goesǃ",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
