@@ -2354,6 +2354,18 @@
             "Category": "4～8人推奨",
             "Worlds": [
                 {
+                    "ID": "wrld_daf2e212-ae0b-4a31-815f-eeb5d2c969ab",
+                    "Name": "カプセルサーキット［CAPRACE］",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【カプレース】カプセルに乗り込んで1~8人のレース！軽量で観戦も楽しいよ！大会イベント・配信OK！なんとなく気分で部屋が暗いです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
                     "ID": "wrld_39327a8b-97ac-4b4e-92dc-2a30d55a7c59",
                     "Name": "何か価値観を数字にして順番に並べれたら気持ちいいゲーム",
                     "RecommendedCapacity": 16,
