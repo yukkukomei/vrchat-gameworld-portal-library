@@ -4222,6 +4222,18 @@
             "Category": "未分類",
             "Worlds": [
                 {
+                    "ID": "wrld_163e0845-b59c-41bd-a491-b9c9524aeda7",
+                    "Name": "Block Party ⁄ ブロックパーティー",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "ルールは壁や天井と同じ色の床にのるだけ！たったそれだけのすげーシンプルではちゃめちゃカオスなパーティーゲーム！みんなでワイワイ遊ぼーぜ！ ⁄⁄⁄ Here's the deal˸ just step on the floor that's the same color as the walls or ceilingǃ Seriously‚ that's all there is to itǃ It's a super simple‚ yet totally wild and chaotic party gameǃ Come on‚ let's all hang out and playǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
                     "ID": "wrld_0f583d22-eddd-4755-b8f6-d165639fd100",
                     "Name": "Wash Car 1․11",
                     "RecommendedCapacity": 16,
