@@ -3384,6 +3384,30 @@
             "Category": "10人以上推奨",
             "Worlds": [
                 {
+                    "ID": "wrld_69c41e95-1539-426a-a321-34412e0b021e",
+                    "Name": "GIGAS",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 32,
+                    "Description": "An asymmetrical PvP game in which a gigantic VR player battles a team of human players․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+                    "Name": "Navy Blue",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 32,
+                    "Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
                     "ID": "wrld_cc2a3fcc-62d3-41da-9c5c-b627791b1f36",
                     "Name": "PEKO PEKO BATTLE 2",
                     "RecommendedCapacity": 20,
@@ -4197,6 +4221,30 @@
         {
             "Category": "未分類",
             "Worlds": [
+                {
+                    "ID": "wrld_0f583d22-eddd-4755-b8f6-d165639fd100",
+                    "Name": "Wash Car 1․11",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Wash Car with your friends‚Still adding more cars and new feature ․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_0315755d-f64c-4aa9-acb6-565c09cfbc0e",
+                    "Name": "将棋マッチング",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "将棋マッチングルームです 対CPUもできるので練習もできます 階級は目安程度にお使いください 。 初心者～６級まで３連勝で各級昇格 ５級～１級まで６連勝で各級昇格 １級目指してね！ 5⁄31駒の光修正、トーナメント表追加、udon将棋1台追加 6⁄3チェスボード追加 イベントなど自由にお使いください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
                 {
                     "ID": "wrld_52eafb3e-74c9-4e40-9051-533d0fa1d7b3",
                     "Name": "Battle Discs",
